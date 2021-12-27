@@ -10,6 +10,7 @@ Software Engineering student and Electronic Technician (with three years of Elec
 - Django
 - ASP .NET Core
 - PostgreSQL, MySQL, SQL Server, MongoDB
+- PyQt5
 - Docker
 
 My [CV](https://laikos-dev-bucket.s3.us-west-2.amazonaws.com/public/CV_FranciscoMaurino_v2.pdf).
