@@ -1,15 +1,19 @@
 # Francisco Maurino
 
-## Sobre mí
-Desarrollador Fullstack en [Pabex](https://www.pabex.com.ar).
+## About me
+Fullstack developer on [Pabex](https://www.pabex.com.ar).
 
-Estudiante de Ingeniería en Sistemas de Información y técnico electrónico (con tres años de estudios de Ingeniería Electrónica).
+Software Engineering student and Electronic Technician (with three years of Electronics Engineering done).
 
-Experiencia en desarrollo web fullstack (Angular, Bootstrap, Django, ASP .NET Core) y desarrollo de aplicaciones de escritorio mediante WinForms y Qt. 
+- GNU/Linux enthusiastic :penguin:
+- Angular
+- Django
+- ASP .NET Core
+- PostgreSQL, MySQL, SQL Server, MongoDB
+- Docker
 
-GNU/Linux enthusiastic :penguin:.
+My [CV](https://laikos-dev-bucket.s3.us-west-2.amazonaws.com/public/CV_FranciscoMaurino_v2.pdf).
 
-Experiencia tanto en electrónica analógica como digital, automatismos basados en microcontroladores PIC y diseño y fabricación de circuitos impresos.
 
 <!--
 **Laikos38/Laikos38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
