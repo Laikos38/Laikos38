@@ -14,8 +14,7 @@ Software Engineering student and Electronic Technician (with three years of Elec
 - Docker
 
 ## CV
-My [CV](https://laikos-dev-bucket.s3.us-west-2.amazonaws.com/public/CV_FranciscoMaurino_v2.pdf).
-
+My [CV](https://laikos-dev-bucket.s3.us-west-2.amazonaws.com/public/CV_FranciscoMaurino_v2_public.pdf).
 
 <!--
 **Laikos38/Laikos38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
