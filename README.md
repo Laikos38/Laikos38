@@ -8,4 +8,4 @@ Software Engineering student and Electronic Technician (with three years of Elec
 [My portfolio](https://jfmaurino.com.ar)
 
 ## CV
-My [CV](https://laikos-space.nyc3.digitaloceanspaces.com/CV_FranciscoMaurino_v2_public.pdf).
+My [CV](https://laikos-space.nyc3.digitaloceanspaces.com/CV_FranciscoMaurino_v3.pdf).
