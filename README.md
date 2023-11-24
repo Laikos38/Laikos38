@@ -1,9 +1,7 @@
 # Francisco Maurino
 
 ## About me
-Fullstack developer on [Pabex](https://www.pabex.com.ar).
-
-Software Engineering student and Electronic Technician (with three years of Electronics Engineering done).
+Fullstack developer on [CRAFTLabs](http://craftlabs.net/).
 
 [My portfolio](https://jfmaurino.com.ar)
 
