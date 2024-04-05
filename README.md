@@ -1,7 +1,7 @@
 # Francisco Maurino
 
 ## About me
-Fullstack developer on [CRAFTLabs](http://craftlabs.net/).
+Fullstack developer on [Intuitivo AI](https://www.intuitivo.com/).
 
 [My portfolio](https://jfmaurino.com.ar)
 
